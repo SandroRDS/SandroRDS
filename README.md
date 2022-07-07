@@ -7,7 +7,7 @@
 * Linkedin: https://www.linkedin.com/in/sandro-rosa-de-souza-02a5bb241/ 🤵
 
 ## Linguagens/Skills: ##
-___
+
 [![html_logo](html.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![css_logo](css.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![javascript_logo](javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
