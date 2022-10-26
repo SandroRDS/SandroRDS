@@ -17,17 +17,17 @@
 
 ### Front-End ###
 
-<code> [![html_logo](images/html20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) </code>
-<code> [![css_logo](images/css20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) </code>
-<code> [![javascript_logo](images/javascript20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) </code>
+<code>[![html_logo](images/html20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)</code>
+<code>[![css_logo](images/css20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)</code>
+<code>[![javascript_logo](images/javascript20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)</code>
 
 ### Back-End ###
 
-<code> [![c_logo](images/c56x56.png)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) </code>
-<code> [![java_logo](images/java56x42.png)](https://www.java.com/pt-BR/) </code>
-<code> [![php_logo](images/php56x82.svg)](https://www.php.net) </code>
-<code> [![sql_logo](images/mysql56x51.png)](https://www.mysql.com) </code>
+<code>[![c_logo](images/c56x56.png)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)</code>
+<code>[![java_logo](images/java56x42.png)](https://www.java.com/pt-BR/)</code>
+<code>[![php_logo](images/php56x82.svg)](https://www.php.net)</code>
+<code>[![sql_logo](images/mysql56x51.png)](https://www.mysql.com)</code>
 
 
 ### DevOps ###
-<code> [![git_logo](images/git56x56.svg)](https://git-scm.com) </code>
+<code>[![git_logo](images/git56x56.svg)](https://git-scm.com)</code>
