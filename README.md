@@ -1,18 +1,33 @@
 # Saudações, Colegas Devs! 🖖👾 #
 
-* Técnico em Informática 💻
-* Desenvolvedor de Software Back-End 👨‍💻
+## 🖋️ Sobre Mim ##
+
+* Técnico em Informática (Instituto Federal Fluminense Campus Campos Centro) 💻
+* Estudante de Desenvolvimento Web Back-End 👨‍💻
 * Estudante da [Alura Cursos Online](https://github.com/alura-cursos) 📚🖥️
-* Email para Contato: sandror.desouza847@gmail.com 📧
+* Email Pessoal: sandror.desouza847@gmail.com 📧
 * Linkedin: https://www.linkedin.com/in/sandro-rosa-de-souza-02a5bb241/ 🤵
 
-## Linguagens/Skills: ##
+## 🚀 Github Status ##
 
-[![html_logo](images/html.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![css_logo](images/css.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![javascript_logo](images/javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![php_logo](images/php.png)](https://www.php.net)
-[![sql_logo](images/mysql.png)](https://www.mysql.com)
-[![java_logo](images/java.png)](https://www.java.com/pt-BR/)
-[![c_logo](images/c.png)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
-[![git_logo](images/git.png)](https://git-scm.com)
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&border_color=1a1233)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandroRDS&theme=tokyonight&border_radius=12&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas&border_color=1a1233)](https://github.com/anuraghazra/github-readme-stats) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## ⚡ Hard Skills: ##
+
+### Front-End ###
+
+<code> [![html_logo](images/html48x48.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) </code>
+<code> [![css_logo](images/css48x48.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) </code>
+<code> [![javascript_logo](images/javascript48x48.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) </code>
+
+### Back-End ###
+
+<code> [![c_logo](images/c56x56.png)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) </code>
+<code> [![java_logo](images/java56x42.png)](https://www.java.com/pt-BR/) </code>
+<code> [![php_logo](images/php56x82.svg)](https://www.php.net) </code>
+<code> [![sql_logo](images/mysql56x51.png)](https://www.mysql.com) </code>
+
+
+### DevOps ###
+<code> [![git_logo](images/git56x56.svg)](https://git-scm.com) </code>
