@@ -17,9 +17,9 @@
 
 ### Front-End ###
 
-<code> [![html_logo](images/html48x48.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) </code>
-<code> [![css_logo](images/css48x48.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) </code>
-<code> [![javascript_logo](images/javascript48x48.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) </code>
+<code> [![html_logo](images/html20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) </code>
+<code> [![css_logo](images/css20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) </code>
+<code> [![javascript_logo](images/javascript20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) </code>
 
 ### Back-End ###
 
