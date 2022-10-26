@@ -2,11 +2,12 @@
 
 ## 🖋️ Sobre Mim ##
 
-* Técnico em Informática (Instituto Federal Fluminense Campus Campos Centro) 💻
-* Estudante de Desenvolvimento Web Back-End 👨‍💻
-* Estudante da [Alura Cursos Online](https://github.com/alura-cursos) 📚🖥️
-* Email Pessoal: sandror.desouza847@gmail.com 📧
-* Linkedin: https://www.linkedin.com/in/sandro-rosa-de-souza-02a5bb241/ 🤵
+* 💻 Técnico em Informática (Instituto Federal Fluminense Campus Campos Centro)
+* 👨‍💻 Estudante de Desenvolvimento Web Back-End
+* 📚 Estudante da [Alura Cursos Online](https://github.com/alura-cursos)
+* 📧 Email Pessoal: sandror.desouza847@gmail.com
+* 🤵 Linkedin: https://www.linkedin.com/in/sandro-rosa-de-souza-02a5bb241/
+* 💡 Portfólio: https://www.sandrords.me
 
 ## 🚀 Github Status ##
 
