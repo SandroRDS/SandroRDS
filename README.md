@@ -17,7 +17,9 @@
 ## 🚀 Github Status ##
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&border_color=1a1233)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandroRDS&theme=tokyonight&border_radius=12&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas&border_color=1a1233)](https://github.com/anuraghazra/github-readme-stats) |
-| ![snake gif](https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg) |
+|------|------|
+
+<img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
 
 ## ⚡ Hard Skills: ##
 
