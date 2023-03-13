@@ -4,9 +4,9 @@
 
 * 💻 Técnico em Informática (Instituto Federal Fluminense Campus Campos Centro)
 
-* 👨‍💻 Estudante de Desenvolvimento Web Back-End
+* 👨‍💻 Estudante de Desenvolvimento Web Full-Stack (focado em Back-End)
 
-* 📚 Estudante da [Alura Cursos Online](https://github.com/alura-cursos)
+* 📚 Pessoa Estudante da [Trybe](https://www.betrybe.com) <img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='20px'>
 
 * 📧 Email Pessoal: sandror.desouza847@gmail.com
 
