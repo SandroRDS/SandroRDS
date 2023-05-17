@@ -1,4 +1,10 @@
-# Saudações, Colegas Devs! 🖖👾 #
+<img src='images/banner.jpg' width='100%'> 
+
+___
+
+<img src='images/introduction.png' width='100%'>
+
+___
 
 ## 🖋️ Sobre Mim ##
 
