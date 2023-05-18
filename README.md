@@ -2,7 +2,8 @@
 
 ___
 
-<img src='images/introduction.png' width='100%'>
+<img src='images/introduction-removebg-preview.png' width='100%'>
+
 
 ___
 
