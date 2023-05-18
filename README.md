@@ -3,7 +3,7 @@
 <!-- <img src='images/banner.jpg' width='100%'>  -->
 <br>
 <h1>Saudações! <img width='30px' src='images/waving-hand.gif'></h1>
-<h2><i> Meu nome é Sandro Márcio Rosa de Souza Filho e sou <b>Web Developer Back-End<b></i>.</h2>
+<h3><i> Meu nome é Sandro Márcio Rosa de Souza Filho e sou <b>Web Developer Back-End<b></i>.</h3>
 
 <br>
 <p align='center'>
