@@ -23,39 +23,17 @@
   <a href=''><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
 </p>
 
-___
+## 🖋️ Um pouquinho sobre mim... ##
 
-## 🖋️ Sobre Mim ##
-
-* 💻 Técnico em Informática (Instituto Federal Fluminense Campus Campos Centro)
-
-* 👨‍💻 Estudante de Desenvolvimento Web Full-Stack (focado em Back-End)
-
-* 📚 Pessoa Estudante da [Trybe](https://www.betrybe.com) <img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='20px'>
-
-* 📧 Email Pessoal: sandror.desouza847@gmail.com
-
-* 🤵 Linkedin: https://www.linkedin.com/in/sandro-rosa-de-souza-02a5bb241/
-
-* 💡 Meu Portfólio: https://www.sandrords.me
-
-<img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
+<p>🎓 Formado como Técnico em Informática pelo IFF Campos Centro</p>
+<p>🧪 Ex-Bolsista ICJ (Iniciação Científica Junior)</p>
+<p>👨‍💻 Estudante de Desenvolvimento Web Full-Stack na <a href='https://www.betrybe.com'><img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='15px'> Trybe</a></p>
+<p>🖥️ Apaixonado por Computação e Engenharia de Software</p>
+<p>🍡👾 Entusiasta de Animes, Mangás e Games</p>
+<p>🎸 Músico Amador</p>
+<br>
+<img src='images/banner.jpg' width='100%'>
 
 ## ⚡ Hard Skills: ##
 
-### Front-End ###
-
-<code>[![html_logo](images/html20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)</code>
-<code>[![css_logo](images/css20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)</code>
-<code>[![javascript_logo](images/javascript20x20.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)</code>
-
-### Back-End ###
-
-<code>[![c_logo](images/c20x20.png)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)</code>
-<code>[![java_logo](images/java15x20.png)](https://www.java.com/pt-BR/)</code>
-<code>[![php_logo](images/php20x20.svg)](https://www.php.net)</code>
-<code>[![sql_logo](images/mysql20x20.png)](https://www.mysql.com)</code>
-
-
-### DevOps ###
-<code>[![git_logo](images/git20x20.svg)](https://git-scm.com)</code>
+<img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
