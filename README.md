@@ -1,8 +1,15 @@
-<img src='images/banner.jpg' width='100%'> 
-
-___
-
 <img src='images/introduction.png' width='100%'>
+
+<!-- <img src='images/banner.jpg' width='100%'>  -->
+<br>
+<h1>Saudações! <img width='30px' src='images/waving-hand.gif'></h1>
+<h2><i> Meu nome é Sandro Márcio Rosa de Souza Filho e sou <b>Web Developer Back-End<b></i>.</h2>
+
+<br>
+<p align='center'>
+  <img height='240px' src="https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&hide_border=true">
+  <img height='240px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroRDS&theme=tokyonight&border_radius=12&layout=normal&custom_title=Linguagens%20Mais%20Utilizadas&hide_border=true">
+</p>
 <br><br>
 <p align='center'>
   <a href='https://www.linkedin.com/in/sandro-rosa-de-souza/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
@@ -31,11 +38,6 @@ ___
 * 🤵 Linkedin: https://www.linkedin.com/in/sandro-rosa-de-souza-02a5bb241/
 
 * 💡 Meu Portfólio: https://www.sandrords.me
-
-## 🚀 Github Status ##
-
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&border_color=1a1233)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandroRDS&theme=tokyonight&border_radius=12&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas&border_color=1a1233)](https://github.com/anuraghazra/github-readme-stats) |
-|------|------|
 
 <img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
 
