@@ -29,7 +29,7 @@
 <p>🧪 Ex-Bolsista ICJ (Iniciação Científica Junior).</p>
 <p>👨‍💻 Estudante de Desenvolvimento Web Full-Stack na <a href='https://www.betrybe.com'><img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='15px'> Trybe</a>.</p>
 <p>🖥️ Apaixonado por Computação e Engenharia de Software.</p>
-<p>🍡👾 Entusiasta de Animes, Mangás e Games.</p>
+<p>👾 Entusiasta de Animes, Mangás e Games.</p>
 <p>🎸 Músico Amador.</p>
 <br>
 <img src='images/banner.jpg' width='100%'>
