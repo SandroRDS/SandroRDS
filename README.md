@@ -1,4 +1,4 @@
-<img src='images/introduction.png' width='100%'>
+<img src='images/introduction.svg' width='100%'>
 
 <!-- <img src='images/banner.jpg' width='100%'>  -->
 <br>
