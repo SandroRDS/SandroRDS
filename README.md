@@ -32,5 +32,17 @@
 <img src='images/banner.jpg' width='100%'>
 
 ## ⚡ Hard Skills: ##
+<p align='center'>
+  <img src='https://skills.thijs.gg/icons?i=js,php,java,c,html,css,bootstrap,jest,mysql,git,linux'>
+</p>
+
+## 🧘🏼 Soft Skills ##
+
+<p>🗣️ Comunicação</p>
+<p>✍🏼 Escrita</p>
+<p>⚙️ Resolução de Problemas</p>
+<p>🫱🏻‍🫲🏾 Colaboração</p>
+<p>👁️ Visão Ampla</p>
+
 
 <img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
