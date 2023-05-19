@@ -40,6 +40,7 @@
 
 <h3>🗣️ Comunicação</h3>
 <h3>✍🏼 Escrita</h3>
+<h3>📚 Autodidatismo</h3>
 <h3>⚙️ Resolução de Problemas</h3>
 <h3>🫱🏻‍🫲🏾 Colaboração</h3>
 <h3>👁️ Visão Ampla</h3>
