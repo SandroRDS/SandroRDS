@@ -38,11 +38,11 @@
 
 ## 🧘🏼 Soft Skills ##
 
-<p>🗣️ Comunicação</p>
-<p>✍🏼 Escrita</p>
-<p>⚙️ Resolução de Problemas</p>
-<p>🫱🏻‍🫲🏾 Colaboração</p>
-<p>👁️ Visão Ampla</p>
+<h3>🗣️ Comunicação</h3>
+<h3>✍🏼 Escrita</h3>
+<h3>⚙️ Resolução de Problemas</h3>
+<h3>🫱🏻‍🫲🏾 Colaboração</h3>
+<h3>👁️ Visão Ampla</h3>
 
 
 <img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
