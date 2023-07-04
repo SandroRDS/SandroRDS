@@ -2,8 +2,7 @@
 <h1>Saudações! <img width='30px' src='images/waving-hand.gif'></h1>
 <br>
 <p align='center'>
-  <img height='200px' src="https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&hide_border=true">
-  <img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroRDS&theme=tokyonight&border_radius=12&layout=normal&custom_title=Linguagens%20Mais%20Utilizadas&hide_border=true">
+  <img height='150px' src="https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&hide_border=true">
 </p>
 
 ## 🖋️ Um pouquinho sobre mim... ##
