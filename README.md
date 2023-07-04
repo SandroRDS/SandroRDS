@@ -29,12 +29,11 @@
   <a href='https://leetcode.com/SandroRDS/'><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
 </p>
 
-<img src='images/banner.jpg' width='100%'>
-
-
 ## ⚡ Hard Skills: ##
 <p align='center'>
   <img src='https://skills.thijs.gg/icons?i=js,php,java,c,html,css,bootstrap,jest,mysql,git,linux'>
 </p>
+
+<img src='images/banner.jpg' width='100%'>
 
 <img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
