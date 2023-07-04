@@ -1,13 +1,22 @@
 <img src='images/introduction.svg' width='100%'>
 <h1>Saudações! <img width='30px' src='images/waving-hand.gif'></h1>
-<h3><i> Meu nome é Sandro Márcio Rosa de Souza Filho e sou <b>Web Developer Back-End</b></i>.</h3>
-
 <br>
 <p align='center'>
-  <img height='240px' src="https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&hide_border=true">
-  <img height='240px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroRDS&theme=tokyonight&border_radius=12&layout=normal&custom_title=Linguagens%20Mais%20Utilizadas&hide_border=true">
+  <img height='200px' src="https://github-readme-stats.vercel.app/api?username=SandroRDS&show_icons=true&theme=tokyonight&border_radius=12&custom_title=SandroRDS's%20Github%20Status&hide_border=true">
+  <img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroRDS&theme=tokyonight&border_radius=12&layout=normal&custom_title=Linguagens%20Mais%20Utilizadas&hide_border=true">
 </p>
 <br><br>
+
+## 🖋️ Um pouquinho sobre mim... ##
+
+<p>🎓 Formado como Técnico em Informática pelo IFF Campos Centro.</p>
+<p>🧪 Ex-Bolsista ICJ (Iniciação Científica Junior).</p>
+<p>👨‍💻 Estudante de Desenvolvimento Web Full-Stack na <a href='https://www.betrybe.com'><img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='15px'> Trybe</a>.</p>
+<p>🖥️ Apaixonado por Computação e Engenharia de Software.</p>
+<p>⭐ Entusiasta de Animes, Mangás e Games.</p>
+<p>🎸 Músico Amador.</p>
+<br>
+
 <p align='center'>
   <a href='https://www.linkedin.com/in/sandro-rosa-de-souza/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   <a href='https://sandrords.github.io/rds-games/'><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'></a>
@@ -20,30 +29,12 @@
   <a href='https://leetcode.com/SandroRDS/'><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
 </p>
 
-## 🖋️ Um pouquinho sobre mim... ##
-
-<p>🎓 Formado como Técnico em Informática pelo IFF Campos Centro.</p>
-<p>🧪 Ex-Bolsista ICJ (Iniciação Científica Junior).</p>
-<p>👨‍💻 Estudante de Desenvolvimento Web Full-Stack na <a href='https://www.betrybe.com'><img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='15px'> Trybe</a>.</p>
-<p>🖥️ Apaixonado por Computação e Engenharia de Software.</p>
-<p>⭐ Entusiasta de Animes, Mangás e Games.</p>
-<p>🎸 Músico Amador.</p>
-<br>
 <img src='images/banner.jpg' width='100%'>
+
 
 ## ⚡ Hard Skills: ##
 <p align='center'>
   <img src='https://skills.thijs.gg/icons?i=js,php,java,c,html,css,bootstrap,jest,mysql,git,linux'>
 </p>
-
-## 🧘🏼 Soft Skills ##
-
-<h3>🗣️ Comunicação</h3>
-<h3>✍🏼 Escrita</h3>
-<h3>📚 Autodidatismo</h3>
-<h3>⚙️ Resolução de Problemas</h3>
-<h3>🤝🏼 Colaboração</h3>
-<h3>👁️ Visão Ampla</h3>
-
 
 <img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
