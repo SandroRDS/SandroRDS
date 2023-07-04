@@ -29,7 +29,7 @@
 
 ## ⚡ Hard Skills: ##
 <p align='center'>
-  <img src='https://skills.thijs.gg/icons?i=html,css,bootstrap,js,ts,vite,react,regex,sass,styledcomponents,php,java,c,jest,mysql,git,linux'>
+  <img src='https://skills.thijs.gg/icons?perline=10&i=html,css,bootstrap,js,ts,vite,react,regex,sass,styledcomponents,php,java,c,jest,mysql,git,linux'>
 </p>
 
 <img src='images/banner.jpg' width='100%'>
