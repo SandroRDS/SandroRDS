@@ -10,7 +10,7 @@
 <p>🎓 Formado como Técnico em Informática pelo IFF Campos Centro.</p>
 <p>🧪 Ex-Bolsista ICJ (Iniciação Científica Junior).</p>
 <p>👨‍🏫 Ex-Professor de Programação e Robótica na <a href='https://ctrlplay.com.br/'>Ctrl+Play</a>.</p>
-<p>👨‍💻 Desenvolvedor de Software Full-Stack na <a href="https://avantsoft.com.br/pt-br/">Avantsoft</a></p>
+<p>👨‍💻 Desenvolvedor de Software Full-Stack na <a href="https://avantsoft.com.br/pt-br/">Avantsoft</a>.</p>
 <p>🖥️ Apaixonado por Computação e Engenharia de Software.</p>
 <p>⭐ Entusiasta de Animes, Mangás e Games.</p>
 <p>🎸 Músico Amador.</p>
@@ -32,9 +32,7 @@
 
 ## ⚡ Hard Skills: ##
 <p align='center'>
-  <img src='https://skills.thijs.gg/icons?perline=10&i=html,css,bootstrap,js,ts,vite,react,regex,sass,styledcomponents,php,java,c,jest,mysql,git,linux'>
+  <img src='https://skillicons.dev/icons?perline=9&i=html,css,js,ts,vite,react,tailwind,php,laravel,nodejs,expressjs,ruby,rails,java,c,mysql,git,linux'>
 </p>
 
 <img src='images/banner.jpg' width='100%'>
-
-<img src="https://github.com/SandroRDS/SandroRDS/blob/output/github-contribution-grid-snake.svg" align="center">
