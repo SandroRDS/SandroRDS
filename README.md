@@ -9,8 +9,8 @@
 
 <p>🎓 Formado como Técnico em Informática pelo IFF Campos Centro.</p>
 <p>🧪 Ex-Bolsista ICJ (Iniciação Científica Junior).</p>
-<p>👨‍💻 Ex-Estudante de Desenvolvimento Web Full-Stack na <a href='https://www.betrybe.com'><img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='15px'> Trybe</a>.</p>
-<p>👨‍🏫 Ex-Professor de Programação e Robótica na <a href='https://ctrlplay.com.br/'>🚀Ctrl+Play</a>.</p>
+<p>👨‍🏫 Ex-Professor de Programação e Robótica na <a href='https://ctrlplay.com.br/'>Ctrl+Play</a>.</p>
+<p>👨‍💻 Desenvolvedor de Software Full-Stack na <a href="https://avantsoft.com.br/pt-br/">Avantsoft</a></p>
 <p>🖥️ Apaixonado por Computação e Engenharia de Software.</p>
 <p>⭐ Entusiasta de Animes, Mangás e Games.</p>
 <p>🎸 Músico Amador.</p>
